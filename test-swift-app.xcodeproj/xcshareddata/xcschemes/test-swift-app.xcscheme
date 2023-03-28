@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6F58A4E129C9EF940074082D"
-               BuildableName = "test-swift-app.app"
+               BuildableName = "Raylib Total.app"
                BlueprintName = "test-swift-app"
                ReferencedContainer = "container:test-swift-app.xcodeproj">
             </BuildableReference>
@@ -67,7 +67,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6F58A4E129C9EF940074082D"
-            BuildableName = "test-swift-app.app"
+            BuildableName = "Raylib Total.app"
             BlueprintName = "test-swift-app"
             ReferencedContainer = "container:test-swift-app.xcodeproj">
          </BuildableReference>
@@ -84,7 +84,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6F58A4E129C9EF940074082D"
-            BuildableName = "test-swift-app.app"
+            BuildableName = "Raylib Total.app"
             BlueprintName = "test-swift-app"
             ReferencedContainer = "container:test-swift-app.xcodeproj">
          </BuildableReference>

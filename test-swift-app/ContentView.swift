@@ -11,12 +11,11 @@ struct ContentView: View {
     
     var body: some View {
         VStack {
-            Image(systemName: "applelogo")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("RAYLIB TOTAL!")
-            
             NavigationStack {
+                Image(systemName: "applelogo")
+                    .imageScale(.large)
+                    .foregroundColor(.accentColor)
+                Text("APP TESTE!")
                 NavigationLink {
                     Counter()
                 } label: {
@@ -28,9 +27,15 @@ struct ContentView: View {
                 } label: {
                     Text("Second Page")
                 }
+                .padding()
+                NavigationLink {
+                    ViewFromRequest()
+                } label: {
+                    Text("View from Request")
+                }
             }
         }
-        .padding()
+//        .padding()
     }
 }
 
